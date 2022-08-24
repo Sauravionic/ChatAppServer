@@ -1,0 +1,8 @@
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\ChatServer\obj\Debug\ChatServer.pdb
